@@ -27,7 +27,7 @@
         <entry key="$PROJECT_DIR$/myapp" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myapp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -167,7 +167,7 @@
       <workItem from="1615795653353" duration="1400000" />
       <workItem from="1615797792458" duration="532000" />
       <workItem from="1615798354015" duration="4928000" />
-      <workItem from="1615807187567" duration="64000" />
+      <workItem from="1615807187567" duration="375000" />
     </task>
     <task id="LOCAL-00001" summary="Zohaib - all files">
       <created>1615795791740</created>
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615799098500</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Zohaib - add laravel,react,bootsrap">
+      <created>1615807419121</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615807419121</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,13 +212,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Zohaib - all files" />
     <MESSAGE value="Zohaib - add react and bootsrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zohaib - add react and bootsrap" />
+    <MESSAGE value="Zohaib - add laravel,react,bootsrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zohaib - add laravel,react,bootsrap" />
   </component>
   <component name="WindowStateProjectService">
     <state x="493" y="256" key="#Composer" timestamp="1615807250883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="493" y="256" key="#Composer/0.0.1366.728@0.0.1366.728" timestamp="1615807250883" />
+    <state x="568" y="226" key="#Notifications" timestamp="1615807513983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="226" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1615807513983" />
     <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1615795749015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -228,10 +240,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615797804578" />
-    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1615799626971">
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1615807519398">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1615799626971" />
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1615807519398" />
     <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615796312174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
